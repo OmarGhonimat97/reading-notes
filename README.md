@@ -19,6 +19,7 @@ Is is a way to document and highlight my new knowledge. Publish it with GitHub p
 
 
 ### Table of Contents
-| Topic      | Link |
-| ----------- | ----------- |
-| Read01      | [Class 01](./Class%2001.md)       |
+| Topic  | Link                                |
+|--------|-------------------------------------|
+| Read01 | [Class 01](./Class01/Class%2001.md) |
+| Read02 | [Class 02](./Class02/Class02.md)    |
