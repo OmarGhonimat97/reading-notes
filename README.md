@@ -16,4 +16,9 @@ Is is a way to document and highlight my new knowledge. Publish it with GitHub p
 
 [SQL_Practice](./SQL_Practice.md)
 
-[Class 01](./Class%2001.md)
+
+
+### Table of Contents
+| Topic      | Link |
+| ----------- | ----------- |
+| Read01      | [Class 01](./Class%2001.md)       |
