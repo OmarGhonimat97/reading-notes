@@ -23,3 +23,4 @@ It is a way to document and highlight my new knowledge. Publish it with GitHub p
 |--------|-------------------------------------|
 | Read01 | [Class 01](./Class01/Class%2001.md) |
 | Read02 | [Class 02](./Class02/Class02.md)    |
+| Read03 | [Class 03](./Class03/Class03.md)    |
