@@ -19,6 +19,7 @@ It is a way to document and highlight my new knowledge. Publish it with GitHub p
 
 
 ### Table of Contents
+
 | Topic  | Link                                |
 |--------|-------------------------------------|
 | Read01 | [Class 01](./Class01/Class%2001.md) |
@@ -26,4 +27,5 @@ It is a way to document and highlight my new knowledge. Publish it with GitHub p
 | Read03 | [Class 03](./Class03/Class03.md)    |
 | Read04 | [Class 04](./Class04/Class04.md)    |
 | Read05 | [Class 05](./Class05/Class05.md)    |
+| Read06 | [Class 06](./Class06/Class06.md)    |
 
