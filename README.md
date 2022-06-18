@@ -29,4 +29,5 @@ It is a way to document and highlight my new knowledge. Publish it with GitHub p
 | Read05 | [Class 05](./Class05/Class05.md)    |
 | Read06 | [Class 06](./Class06/Class06.md)    |
 | Read07 | [Class 07](./Class07/Class07.md)    |
+| Read08 | [Class 08](./Class08/Class08.md)    |
 
