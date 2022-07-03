@@ -37,6 +37,7 @@ It is a way to document and highlight my new knowledge. Publish it with GitHub p
 | Read13 | [Class 13](./Class13/Class13.md)    |
 | Read14 | [Class 14](./Class14/Class14.md)    |
 | Read15 | [Class 15](./Class15/Class15.md)    |
+| Read16 | [Class 16](./Class16/Class16.md)    |
 
 
 
