@@ -40,6 +40,7 @@ It is a way to document and highlight my new knowledge. Publish it with GitHub p
 | Read16 | [Class 16](./Class16/Class16.md)    |
 | Read17 | [Class 17](./Class17/Class17.md)    |
 | Read18 | [Class 18](./Class18/Class18.md)    |
+| Read19 | [Class 19](./Class19/Class19.md)    |
 
 
 
