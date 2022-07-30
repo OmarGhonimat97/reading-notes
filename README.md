@@ -44,6 +44,8 @@ It is a way to document and highlight my new knowledge. Publish it with GitHub p
 | Read26 | [Class 26](./Class26/Class26.md)    |
 | Read27 | [Class 27](./Class27/Class27.md)    |
 | Read28 | [Class 28](./Class28/Class28.md)    |
+| Read29 | [Class 29](./Class29/Class29.md)    |
+
 
 
 
