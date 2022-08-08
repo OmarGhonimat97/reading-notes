@@ -46,6 +46,7 @@ It is a way to document and highlight my new knowledge. Publish it with GitHub p
 | Read28      | [Class 28](./Class28/Class28.md)            |
 | Read29      | [Class 29](./Class29/Class29.md)            |
 | Hash Tables | [Hash Tables](./Hash Tables/hash_tables.md) |
+| Read31      | [Class 31](./Class31/Class31.md)            |
 
 
 
