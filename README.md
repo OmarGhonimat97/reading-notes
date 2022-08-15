@@ -49,6 +49,7 @@ It is a way to document and highlight my new knowledge. Publish it with GitHub p
 | Read31      | [Class 31](./Class31/Class31.md)            |
 | Read32      | [Class 32](./Class32/Class32.md)            |
 | Read33      | [Class 33](./Class33/Class33.md)            |
+| Read34      | [Class 34](./Class34/Class34.md)            |
 
 
 
