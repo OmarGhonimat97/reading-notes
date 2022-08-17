@@ -50,6 +50,7 @@ It is a way to document and highlight my new knowledge. Publish it with GitHub p
 | Read32      | [Class 32](./Class32/Class32.md)            |
 | Read33      | [Class 33](./Class33/Class33.md)            |
 | Read34      | [Class 34](./Class34/Class34.md)            |
+| Read35      | [Class 35](./Class35/Class35.md)            |
 
 
 

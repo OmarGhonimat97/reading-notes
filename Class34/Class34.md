@@ -4,9 +4,13 @@
 Setting Configuration: Different Approaches
 
 > settings_local.py
+
 > Separate settings file for each environment
+
 > Environment variables
+
 > 12 Factors
+
 > django-environ
 
 Django Settings: Best practices
