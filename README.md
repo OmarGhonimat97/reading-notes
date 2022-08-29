@@ -54,6 +54,7 @@ It is a way to document and highlight my new knowledge. Publish it with GitHub p
 | Read36      | [Class 36](./Class36/Class36.md)            |
 | Read37      | [Class 37](./Class37/Class37.md)            |
 | Read38      | [Class 38](./Class38/Class38.md)            |
+| Read39      | [Class 39](./Class39/Class39.md)            |
 
 
 
